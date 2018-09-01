@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 0a8b70598530e8a43a078257698bbd04
+timeCreated: 1512366309
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: pCube1
+    100002: pCube2
+    100004: pCube3
+    100006: pCube4
+    100008: pCube5
+    100010: pCube6
+    100012: pCylinder1
+    100014: pCylinder2
+    100016: pCylinder3
+    100018: pCylinder4
+    100020: pCylinder5
+    100022: transform1
+    100024: transform2
+    100026: transform3
+    100028: transform4
+    100030: //RootNode
+    400000: pCube1
+    400002: pCube2
+    400004: pCube3
+    400006: pCube4
+    400008: pCube5
+    400010: pCube6
+    400012: pCylinder1
+    400014: pCylinder2
+    400016: pCylinder3
+    400018: pCylinder4
+    400020: pCylinder5
+    400022: transform1
+    400024: transform2
+    400026: transform3
+    400028: transform4
+    400030: //RootNode
+    2300000: pCube5
+    2300002: pCube6
+    2300004: pCylinder1
+    2300006: pCylinder2
+    2300008: pCylinder3
+    2300010: pCylinder4
+    2300012: pCylinder5
+    3300000: pCube5
+    3300002: pCube6
+    3300004: pCylinder1
+    3300006: pCylinder2
+    3300008: pCylinder3
+    3300010: pCylinder4
+    3300012: pCylinder5
+    4300000: pCylinder1
+    4300002: pCylinder2
+    4300004: pCube5
+    4300006: pCube6
+    4300008: pCylinder3
+    4300010: pCylinder4
+    4300012: pCylinder5
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: insidecanmat
+    second: {fileID: 2100000, guid: 3815b38e6ec152e49b387e659405f6e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: cd4bd8add7346a5418d72a7cf5e4bd2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: ecaa8c41941e04749971494b242470b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: 5b5af42020626974db8320fc42aa0393, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: 25c6538939f955245b81cd00fa277ae7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6
+    second: {fileID: 2100000, guid: d4e0447afb8f600428571335561e6dee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leafmat
+    second: {fileID: 2100000, guid: da1f0eea11ff80a4a92d58c6f0eca171, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trash2mat
+    second: {fileID: 2100000, guid: fac3003a4a6baec489f2fe97da46e327, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trash3mat
+    second: {fileID: 2100000, guid: 8ee7603182d327f4e8ee49e9243ce5af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trashcan2mat
+    second: {fileID: 2100000, guid: d062d5e18a87cd54a8643838ee2f8fdf, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
